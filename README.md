@@ -1,2 +1,2 @@
-# git in C:\Users\drlak\my_learning\python_WhatsApp
+# git in C:\Users\lakaparampil\my_lessons\lessons_WhatsApp
 This is for learning Python programming for whatsApp
